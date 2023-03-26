@@ -1,0 +1,7 @@
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\bin\Debug\tpmodul6_1302213120.exe.config
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\bin\Debug\tpmodul6_1302213120.exe
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\bin\Debug\tpmodul6_1302213120.pdb
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\obj\Debug\tpmodul6_1302213120.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\obj\Debug\tpmodul6_1302213120.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\obj\Debug\tpmodul6_1302213120.exe
+C:\Users\walid\source\repos\tpmodul6_1302213120\tpmodul6_1302213120\obj\Debug\tpmodul6_1302213120.pdb
